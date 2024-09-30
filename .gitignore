@@ -1,0 +1,14 @@
+# repository
+.vercel
+.turbo
+dist
+node_modules
+
+# temporary files
+*.temp.*
+*._.*
+*.bkp
+
+# debug
+*-debug.log*
+*-error.log*
